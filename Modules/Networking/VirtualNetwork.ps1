@@ -83,6 +83,7 @@ Else {
         $Exc.Add('Resource Group')
         $Exc.Add('Name')
         $Exc.Add('Location')
+      #  No need to show is column
       #  $Exc.Add('Zone')
         $Exc.Add('Address Space')
         $Exc.Add('Enable DDOS Protection')
