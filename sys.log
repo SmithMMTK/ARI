@@ -1,0 +1,764 @@
+ 
+ *** 
+ 
+xc  
+ *** 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ *** 
+ 
+ Exc  
+ Exc  
+ *** 
+ 
+** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ 
+** 
+ *** 
+ Exc  
+ Exc  
+ *** 
+ 
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ 
+ *** 
+ *** 
+ 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ *** 
+ 
+xc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/44fcc7b0-f133-4dfb-a117-da6ddd451180/resourcegroups/rg-mya-az-asea-dev-001/providers/microsoft.containerservice/managedclusters/aks-mya-az-asea-dev-001; identity=; kind=; location=eastasia; managedby=; name=aks-mya-az-asea-dev-001; plan=; properties=; resourcegroup=rg-mya-az-asea-dev-001; sku=; subscriptionid=44fcc7b0-f133-4dfb-a117-da6ddd451180; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/44fcc7b0-f133-4dfb-a117-da6ddd451180/resourcegroups/rg-mya-az-asea-dev-001/providers/microsoft.containerservice/managedclusters/aks-mya-az-asea-dev-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : eastasia
+managedby        : 
+name             : aks-mya-az-asea-dev-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; autoupgradeprofile=; azureportalfqdn=a7c17dc03a82fffd7269eda20975bdc7-priv.portal.hcp.eastasia.azmk8s.io; currentkubernetesversion=1.25.5; disablelocalaccounts=False; dnsprefix=mya; enablerbac=True; identityprofile=; kubernetesversion=1.25.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-aksmya-az-asea-dev-001; powerstate=; privatefqdn=mya-186edb8f.privatelink.eastasia.azmk8s.io; privatelinkresources=System.Object[]; provisioningstate=succeeded; publicnetworkaccess=enabled; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-mya-az-asea-dev-001
+sku              : @{name=basic; tier=free}
+subscriptionid   : 44fcc7b0-f133-4dfb-a117-da6ddd451180
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/213f3fc2-e7c7-40f1-8e1c-fe7e6e011eaa/resourcegroups/rg-fbb4systemaks-az-asse-prd-001/providers/microsoft.containerservice/managedclusters/aks-fbb4system-az-asse-prd-001; identity=; kind=; location=southeastasia; managedby=; name=aks-fbb4system-az-asse-prd-001; plan=; properties=; resourcegroup=rg-fbb4systemaks-az-asse-prd-001; sku=; subscriptionid=213f3fc2-e7c7-40f1-8e1c-fe7e6e011eaa; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/213f3fc2-e7c7-40f1-8e1c-fe7e6e011eaa/resourcegroups/rg-fbb4systemaks-az-asse-prd-001/providers/microsoft.containerservice/managedclusters/aks-fbb4system-az-asse-prd-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-fbb4system-az-asse-prd-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoupgradeprofile=; azureportalfqdn=07399c5ce6365364a6edf98ca6415023-priv.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.24.9; disablelocalaccounts=False; dnsprefix=fbb-prd; enablerbac=True; fqdn=fbb-prd-2a0ae73c.hcp.southeastasia.azmk8s.io; identityprofile=; kubernetesversion=1.24.9; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-fbb4systemaksnodepool-az-asse-prd-001; powerstate=; privatefqdn=fbb-prd-2a0ae73c.hcp.southeastasia.azmk8s.io; privatelinkresources=System.Object[]; provisioningstate=succeeded; publicnetworkaccess=enabled; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-fbb4systemaks-az-asse-prd-001
+sku              : @{name=basic; tier=paid}
+subscriptionid   : 213f3fc2-e7c7-40f1-8e1c-fe7e6e011eaa
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/44fcc7b0-f133-4dfb-a117-da6ddd451180/resourcegroups/rg-mya-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-mya-az-asse-dev-001; identity=; kind=; location=southeastasia; managedby=; name=aks-mya-az-asse-dev-001; plan=; properties=; resourcegroup=rg-mya-az-asse-dev-001; sku=; subscriptionid=44fcc7b0-f133-4dfb-a117-da6ddd451180; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/44fcc7b0-f133-4dfb-a117-da6ddd451180/resourcegroups/rg-mya-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-mya-az-asse-dev-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-mya-az-asse-dev-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; autoupgradeprofile=; azureportalfqdn=0739aa88639e1c6fa0859812b0bc5bbf-priv.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.25.5; disablelocalaccounts=False; dnsprefix=mya; enablerbac=True; identityprofile=; kubernetesversion=1.25.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-aksmya-az-asse-dev-001; powerstate=; privatefqdn=mya-3d024ca6.privatelink.southeastasia.azmk8s.io; privatelinkresources=System.Object[]; provisioningstate=succeeded; publicnetworkaccess=enabled; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-mya-az-asse-dev-001
+sku              : @{name=basic; tier=free}
+subscriptionid   : 44fcc7b0-f133-4dfb-a117-da6ddd451180
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/33d56305-e479-4ad8-a11b-ec47da1f540f/resourcegroups/rg-intsitesearch-az-asse-prd-001/providers/microsoft.containerservice/managedclusters/aks-intsitesearch-az-asse-prd-001; identity=; kind=; location=southeastasia; managedby=; name=aks-intsitesearch-az-asse-prd-001; plan=; properties=; resourcegroup=rg-intsitesearch-az-asse-prd-001; sku=; subscriptionid=33d56305-e479-4ad8-a11b-ec47da1f540f; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/33d56305-e479-4ad8-a11b-ec47da1f540f/resourcegroups/rg-intsitesearch-az-asse-prd-001/providers/microsoft.containerservice/managedclusters/aks-intsitesearch-az-asse-prd-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-intsitesearch-az-asse-prd-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; azureportalfqdn=int-1a42de18.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.21.9; disablelocalaccounts=False; dnsprefix=int; enablerbac=True; fqdn=int-1a42de18.hcp.southeastasia.azmk8s.io; identityprofile=; kubernetesversion=1.21.9; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-aksintsitesearch-az-asse-prd-001; powerstate=; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-intsitesearch-az-asse-prd-001
+sku              : @{name=basic; tier=free}
+subscriptionid   : 33d56305-e479-4ad8-a11b-ec47da1f540f
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ *** 
+ Exc  
+ *** 
+ 
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/44fcc7b0-f133-4dfb-a117-da6ddd451180/resourcegroups/myais-dev/providers/microsoft.containerservice/managedclusters/aks-myais-az-asse-dev-001; identity=; kind=; location=southeastasia; managedby=; name=aks-myais-az-asse-dev-001; plan=; properties=; resourcegroup=myais-dev; sku=; subscriptionid=44fcc7b0-f133-4dfb-a117-da6ddd451180; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/44fcc7b0-f133-4dfb-a117-da6ddd451180/resourcegroups/myais-dev/providers/microsoft.containerservice/managedclusters/aks-myais-az-asse-dev-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-myais-az-asse-dev-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; azureportalfqdn=0c2a61c6998dca528531c4b3f59c4820-priv.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.23.5; disablelocalaccounts=False; dnsprefix=myais; enablerbac=True; fqdn=myais-febd3985.hcp.southeastasia.azmk8s.io; identityprofile=; kubernetesversion=1.23.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-aksmyais-az-asse-dev-001; powerstate=; privatefqdn=myais-56ad9468.privatelink.southeastasia.azmk8s.io; privatelinkresources=System.Object[]; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : myais-dev
+sku              : @{name=basic; tier=free}
+subscriptionid   : 44fcc7b0-f133-4dfb-a117-da6ddd451180
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/47bc2eba-688c-460d-b3db-f4da2ca8d08a/resourcegroups/rg-aftersale-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-aftersale-az-asse-dev-001; identity=; kind=; location=southeastasia; managedby=; name=aks-aftersale-az-asse-dev-001; plan=; properties=; resourcegroup=rg-aftersale-az-asse-dev-001; sku=; subscriptionid=47bc2eba-688c-460d-b3db-f4da2ca8d08a; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/47bc2eba-688c-460d-b3db-f4da2ca8d08a/resourcegroups/rg-aftersale-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-aftersale-az-asse-dev-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-aftersale-az-asse-dev-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; azureportalfqdn=aftersale-ffda185b.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.25.5; disablelocalaccounts=False; dnsprefix=aftersale; enablerbac=True; fqdn=aftersale-ffda185b.hcp.southeastasia.azmk8s.io; identityprofile=; kubernetesversion=1.25.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=mc_rg-aftersale-az-asse-dev-001_aks-aftersale-az-asse-dev-001_southeastasia; powerstate=; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-aftersale-az-asse-dev-001
+sku              : @{name=basic; tier=free}
+subscriptionid   : 47bc2eba-688c-460d-b3db-f4da2ca8d08a
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ *** 
+ 
+ 
+ *** 
+ Exc  
+
+ Exc  
+ *** 
+ *** 
+ 
+ 
+ 
+ *** 
+ Exc  
+ 
+ *** 
+ Exc  
+
+ 
+ *** 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/44fcc7b0-f133-4dfb-a117-da6ddd451180/resourcegroups/myais-dev/providers/microsoft.containerservice/managedclusters/myais-dev-aks2797; identity=; kind=; location=southeastasia; managedby=; name=myais-dev-aks2797; plan=; properties=; resourcegroup=myais-dev; sku=; subscriptionid=44fcc7b0-f133-4dfb-a117-da6ddd451180; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/44fcc7b0-f133-4dfb-a117-da6ddd451180/resourcegroups/myais-dev/providers/microsoft.containerservice/managedclusters/myais-dev-aks2797
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : myais-dev-aks2797
+plan             : 
+properties       : @{addonprofiles=; agentpoolprofiles=System.Object[]; azureportalfqdn=myais-dev--myais-dev-44fcc7-fef72904.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.23.3; dnsprefix=myais-dev--myais-dev-44fcc7; enablerbac=True; fqdn=myais-dev--myais-dev-44fcc7-fef72904.hcp.southeastasia.azmk8s.io; identityprofile=; kubernetesversion=1.23.3; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=mc_myais-dev_myais-dev-aks2797_southeastasia; powerstate=; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : myais-dev
+sku              : @{name=basic; tier=free}
+subscriptionid   : 44fcc7b0-f133-4dfb-a117-da6ddd451180
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/83432207-b043-4f78-8530-8bebb777441c/resourcegroups/rg-entitlement-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-entitlement-az-asse-dev-001; identity=; kind=; location=southeastasia; managedby=; name=aks-entitlement-az-asse-dev-001; plan=; properties=; resourcegroup=rg-entitlement-az-asse-dev-001; sku=; subscriptionid=83432207-b043-4f78-8530-8bebb777441c; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/83432207-b043-4f78-8530-8bebb777441c/resourcegroups/rg-entitlement-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-entitlement-az-asse-dev-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-entitlement-az-asse-dev-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; azureportalfqdn=entitlement-b4858d1d.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.25.5; disablelocalaccounts=False; dnsprefix=entitlement; enablerbac=True; fqdn=entitlement-b4858d1d.hcp.southeastasia.azmk8s.io; identityprofile=; kubernetesversion=1.25.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=mc_rg-entitlement-az-asse-dev-001_aks-entitlement-az-asse-dev-001_southeastasia; powerstate=; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-entitlement-az-asse-dev-001
+sku              : @{name=basic; tier=free}
+subscriptionid   : 83432207-b043-4f78-8530-8bebb777441c
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/911719a9-f7ad-4839-b238-754816d1b9bc/resourcegroups/donut-prod/providers/microsoft.containerservice/managedclusters/donut-prod-aks0421; identity=; kind=; location=southeastasia; managedby=; name=donut-prod-aks0421; plan=; properties=; resourcegroup=donut-prod; sku=; subscriptionid=911719a9-f7ad-4839-b238-754816d1b9bc; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/911719a9-f7ad-4839-b238-754816d1b9bc/resourcegroups/donut-prod/providers/microsoft.containerservice/managedclusters/donut-prod-aks0421
+identity         : 
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : donut-prod-aks0421
+plan             : 
+properties       : @{addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; azureportalfqdn=donut-prod-donut-prod-911719-99089a65.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.22.6; dnsprefix=donut-prod-donut-prod-911719; enablerbac=True; fqdn=donut-prod-donut-prod-911719-99089a65.hcp.southeastasia.azmk8s.io; kubernetesversion=1.22.6; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=mc_donut-prod_donut-prod-aks0421_southeastasia; powerstate=; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : donut-prod
+sku              : @{name=basic; tier=paid}
+subscriptionid   : 911719a9-f7ad-4839-b238-754816d1b9bc
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/e0f3df35-e58c-4d78-83d7-e58a246d0c0b/resourcegroups/rg-myais-az-asse-prd-001/providers/microsoft.containerservice/managedclusters/aks-myais-az-asse-prd-001; identity=; kind=; location=southeastasia; managedby=; name=aks-myais-az-asse-prd-001; plan=; properties=; resourcegroup=rg-myais-az-asse-prd-001; sku=; subscriptionid=e0f3df35-e58c-4d78-83d7-e58a246d0c0b; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/e0f3df35-e58c-4d78-83d7-e58a246d0c0b/resourcegroups/rg-myais-az-asse-prd-001/providers/microsoft.containerservice/managedclusters/aks-myais-az-asse-prd-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-myais-az-asse-prd-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; azureportalfqdn=932efd564d73b6792d5e82235e4d4152-priv.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.23.3; disablelocalaccounts=False; dnsprefix=myais; enablerbac=True; fqdn=myais-51bc59ca.hcp.southeastasia.azmk8s.io; identityprofile=; kubernetesversion=1.23.3; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-aksmyais-az-asse-prd-001; powerstate=; privatefqdn=myais-b34c8ac7.privatelink.southeastasia.azmk8s.io; privatelinkresources=System.Object[]; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-myais-az-asse-prd-001
+sku              : @{name=basic; tier=paid}
+subscriptionid   : e0f3df35-e58c-4d78-83d7-e58a246d0c0b
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/92de4a78-b344-46b1-8662-316a9661194a/resourcegroups/az-ebiz-nonprod/providers/microsoft.containerservice/managedclusters/ebizk8s-nonprod; identity=; kind=; location=southeastasia; managedby=; name=ebizk8s-nonprod; plan=; properties=; resourcegroup=az-ebiz-nonprod; sku=; subscriptionid=92de4a78-b344-46b1-8662-316a9661194a; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/92de4a78-b344-46b1-8662-316a9661194a/resourcegroups/az-ebiz-nonprod/providers/microsoft.containerservice/managedclusters/ebizk8s-nonprod
+identity         : 
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : ebizk8s-nonprod
+plan             : 
+properties       : @{addonprofiles=; agentpoolprofiles=System.Object[]; azureportalfqdn=ebizk8s-no-az-ebiz-nonprod-92de4a-4eb89060.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.19.11; dnsprefix=ebizk8s-no-az-ebiz-nonprod-92de4a; enablepodsecuritypolicy=False; enablerbac=True; fqdn=ebizk8s-no-az-ebiz-nonprod-92de4a-4eb89060.hcp.southeastasia.azmk8s.io; kubernetesversion=1.19.11; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=mc_az-ebiz-nonprod_ebizk8s-nonprod_southeastasia; powerstate=; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=}
+resourcegroup    : az-ebiz-nonprod
+sku              : @{name=basic; tier=free}
+subscriptionid   : 92de4a78-b344-46b1-8662-316a9661194a
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/92de4a78-b344-46b1-8662-316a9661194a/resourcegroups/rg-ebiz-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-ebiz-az-asse-dev-001; identity=; kind=; location=southeastasia; managedby=; name=aks-ebiz-az-asse-dev-001; plan=; properties=; resourcegroup=rg-ebiz-az-asse-dev-001; sku=; subscriptionid=92de4a78-b344-46b1-8662-316a9661194a; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/92de4a78-b344-46b1-8662-316a9661194a/resourcegroups/rg-ebiz-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-ebiz-az-asse-dev-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-ebiz-az-asse-dev-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; autoupgradeprofile=; azureportalfqdn=03fe8787998754f5632bf76db45b25eb-priv.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.23.5; disablelocalaccounts=False; dnsprefix=ebiz; enablerbac=True; identityprofile=; kubernetesversion=1.23.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-aksebiz-az-asse-dev-001; powerstate=; privatefqdn=ebiz-7585327b.privatelink.southeastasia.azmk8s.io; privatelinkresources=System.Object[]; provisioningstate=succeeded; publicnetworkaccess=enabled; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-ebiz-az-asse-dev-001
+sku              : @{name=basic; tier=paid}
+subscriptionid   : 92de4a78-b344-46b1-8662-316a9661194a
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/e0f3df35-e58c-4d78-83d7-e58a246d0c0b/resourcegroups/rg-mya-az-asea-prd-001/providers/microsoft.containerservice/managedclusters/aks-mya-az-asea-prd-001; identity=; kind=; location=eastasia; managedby=; name=aks-mya-az-asea-prd-001; plan=; properties=; resourcegroup=rg-mya-az-asea-prd-001; sku=; subscriptionid=e0f3df35-e58c-4d78-83d7-e58a246d0c0b; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/e0f3df35-e58c-4d78-83d7-e58a246d0c0b/resourcegroups/rg-mya-az-asea-prd-001/providers/microsoft.containerservice/managedclusters/aks-mya-az-asea-prd-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : eastasia
+managedby        : 
+name             : aks-mya-az-asea-prd-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; autoupgradeprofile=; azureportalfqdn=e143392b9b0f747790ea56b1f34f1b19-priv.portal.hcp.eastasia.azmk8s.io; currentkubernetesversion=1.25.5; disablelocalaccounts=False; dnsprefix=mya; enablerbac=True; identityprofile=; kubernetesversion=1.25.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-aksmya-az-asea-prd-001; powerstate=; privatefqdn=mya-9mh6sx43.privatelink.eastasia.azmk8s.io; privatelinkresources=System.Object[]; provisioningstate=succeeded; publicnetworkaccess=enabled; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-mya-az-asea-prd-001
+sku              : @{name=basic; tier=paid}
+subscriptionid   : e0f3df35-e58c-4d78-83d7-e58a246d0c0b
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/c16f8fbc-34ba-470c-96c4-db5582167fc6/resourcegroups/rg-intsitesearch-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-intsite-az-asse-dev-001; identity=; kind=; location=southeastasia; managedby=; name=aks-intsite-az-asse-dev-001; plan=; properties=; resourcegroup=rg-intsitesearch-az-asse-dev-001; sku=; subscriptionid=c16f8fbc-34ba-470c-96c4-db5582167fc6; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/c16f8fbc-34ba-470c-96c4-db5582167fc6/resourcegroups/rg-intsitesearch-az-asse-dev-001/providers/microsoft.containerservice/managedclusters/aks-intsite-az-asse-dev-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-intsite-az-asse-dev-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; azureportalfqdn=int-1c5a64ed.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.21.2; disablelocalaccounts=False; dnsprefix=int; enablerbac=True; fqdn=int-1c5a64ed.hcp.southeastasia.azmk8s.io; identityprofile=; kubernetesversion=1.21.2; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=mc_rg-intsitesearch-az-asse-dev-001_aks-intsite-az-asse-dev-001_southeastasia; powerstate=; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-intsitesearch-az-asse-dev-001
+sku              : @{name=basic; tier=free}
+subscriptionid   : c16f8fbc-34ba-470c-96c4-db5582167fc6
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/e0f3df35-e58c-4d78-83d7-e58a246d0c0b/resourcegroups/rg-mya-az-asse-prd-001/providers/microsoft.containerservice/managedclusters/aks-mya-az-asse-prd-001; identity=; kind=; location=southeastasia; managedby=; name=aks-mya-az-asse-prd-001; plan=; properties=; resourcegroup=rg-mya-az-asse-prd-001; sku=; subscriptionid=e0f3df35-e58c-4d78-83d7-e58a246d0c0b; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/e0f3df35-e58c-4d78-83d7-e58a246d0c0b/resourcegroups/rg-mya-az-asse-prd-001/providers/microsoft.containerservice/managedclusters/aks-mya-az-asse-prd-001
+identity         : @{type=userassigned; userassignedidentities=}
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : aks-mya-az-asse-prd-001
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; autoscalerprofile=; autoupgradeprofile=; azureportalfqdn=6011440b58c7bf90455df2440b08d774-priv.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.25.5; disablelocalaccounts=False; dnsprefix=mya; enablerbac=True; identityprofile=; kubernetesversion=1.25.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=rg-aksmya-az-asse-prd-001; powerstate=; privatefqdn=mya-b5a0e3d2.privatelink.southeastasia.azmk8s.io; privatelinkresources=System.Object[]; provisioningstate=succeeded; publicnetworkaccess=enabled; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : rg-mya-az-asse-prd-001
+sku              : @{name=basic; tier=paid}
+subscriptionid   : e0f3df35-e58c-4d78-83d7-e58a246d0c0b
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ @{extendedlocation=; id=/subscriptions/fda667df-6da0-478e-b2db-3f06a5920727/resourcegroups/new-donut-dev/providers/microsoft.containerservice/managedclusters/new-donut-dev-aks2798; identity=; kind=; location=southeastasia; managedby=; name=new-donut-dev-aks2798; plan=; properties=; resourcegroup=new-donut-dev; sku=; subscriptionid=fda667df-6da0-478e-b2db-3f06a5920727; tenantid=833df664-61c8-4af0-bcce-b9eed5f10e5a; type=microsoft.containerservice/managedclusters; zones=}  
+
+extendedlocation : 
+id               : /subscriptions/fda667df-6da0-478e-b2db-3f06a5920727/resourcegroups/new-donut-dev/providers/microsoft.containerservice/managedclusters/new-donut-dev-aks2798
+identity         : 
+kind             : 
+location         : southeastasia
+managedby        : 
+name             : new-donut-dev-aks2798
+plan             : 
+properties       : @{aadprofile=; addonprofiles=; agentpoolprofiles=System.Object[]; apiserveraccessprofile=; azureportalfqdn=new-donut--new-donut-dev-fda667-8812bc67.portal.hcp.southeastasia.azmk8s.io; currentkubernetesversion=1.23.5; dnsprefix=new-donut--new-donut-dev-fda667; enablerbac=True; fqdn=new-donut--new-donut-dev-fda667-8812bc67.hcp.southeastasia.azmk8s.io; kubernetesversion=1.23.5; linuxprofile=; maxagentpools=100; networkprofile=; noderesourcegroup=mc_new-donut-dev_new-donut-dev-aks2798_southeastasia; powerstate=; provisioningstate=succeeded; securityprofile=; serviceprincipalprofile=; storageprofile=}
+resourcegroup    : new-donut-dev
+sku              : @{name=basic; tier=free}
+subscriptionid   : fda667df-6da0-478e-b2db-3f06a5920727
+tenantid         : 833df664-61c8-4af0-bcce-b9eed5f10e5a
+type             : microsoft.containerservice/managedclusters
+zones            : 
+
+
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
+ 
+ *** 
+ Exc  
+ *** 
+ 
